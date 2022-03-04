@@ -1,5 +1,5 @@
 # Python-Game
-This is a basic game made in Intro to Computer Science.
+This is a basic game I designed in Intro to Computer Science.
 
 ## How to use: 
 The goal of the game is to not get hit by the missiles. User (jet) can press the up, down, left, and right keys to move within the screen and dodge the missiles. User can also press the spacebar to shoot bullets. The bullets kill any missiles it first hits. This is a fast paced game. Each level is 30 seconds. At every level, the speed of the missiles increases. The user can collide with flying pigs to decrease the speed of the missiles. However, as the levels increase, the flyings pigs will not slow down the speed as much.
